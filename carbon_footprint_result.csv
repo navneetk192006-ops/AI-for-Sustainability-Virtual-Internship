@@ -1,0 +1,5 @@
+travel_km,electricity_units,lpg_cylinders,shopping_score,travel_emission,electricity_emission,lpg_emission,shopping_emission,total_daily_co2,annual_co2,footprint_level
+12,5,0.02,6,2.52,4.1,0.8519999999999999,3.0,10.472,3822.2799999999997,Moderate
+25,8,0.05,8,5.25,6.56,2.13,4.0,17.939999999999998,6548.099999999999,Moderate
+6,3,0.01,4,1.26,2.46,0.42599999999999993,2.0,6.146,2243.29,Low
+30,10,0.07,9,6.3,8.2,2.982,4.5,21.982,8023.429999999999,Moderate
